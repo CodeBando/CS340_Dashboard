@@ -28,9 +28,12 @@ Computer scientists play a vital role in developing and applying computational t
 * Database Management
 * UI/UX Developement
 <br>
-The work that a Computer Scientist does can help companies do their work more effectively and efficently in many ways. In regards to the work completed for this project, it can provide:
+The work that a Computer Scientist does can help companies do their work more effectively and efficently in many ways. In regards to the work completed for this project, it can provide: <br>
 <br>
-**Efficiences:** Automating data management and visualization, the dashboard streamlines processes, saving time and effort for Grazioso Salvare. They can focus more on the animals that fit their specific criteria rather than manually going through every animal currently in the shelter system.<br>
-**Data-Driven Decisions:** The dashboard provides insights into shelter data, helping Grazioso Salvare make informed decisions about resource allocation, training operounities, and adoption strategies.<br>
-**Improved User Experience:** Principles can be applied to create an intuitive and user-friendly interface, making it easier for the compainies staff to interact with the system.<br>
-**Scalability:** Computer scientists can design the system to handle growth in data and users, ensuring it remains effective as Grazioso Salvare expands its operations.<br>
+<strong>Efficiences:</strong> Automating data management and visualization, the dashboard streamlines processes, saving time and effort for Grazioso Salvare. They can focus more on the animals that fit their specific criteria rather than manually going through every animal currently in the shelter system.<br>
+<br>
+<strong>Data-Driven Decisions:</strong> The dashboard provides insights into shelter data, helping Grazioso Salvare make informed decisions about resource allocation, training operounities, and adoption strategies.<br>
+<br>
+<strong>Improved User Experience:</strong> Principles can be applied to create an intuitive and user-friendly interface, making it easier for the compainies staff to interact with the system.<br>
+<br>
+<strong>Scalability:</strong> Computer scientists can design the system to handle growth in data and users, ensuring it remains effective as Grazioso Salvare expands its operations.<br>
